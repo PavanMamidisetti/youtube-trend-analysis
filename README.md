@@ -1,4 +1,4 @@
-YouTube Trend Analysis
+Youtube Trend Analysis:
 
 Project Overview
 
